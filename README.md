@@ -4,7 +4,8 @@
 <h3 align="center">A passionate University Student in Viet Nam</h3>
 I'm Studying Artifical Intelligence 🤖 at University of Information Technology
 
-📫 How to reach me: chinhvn12345607@gmail.com
+📫 Personal Email: chinhvn12345607@gmail.com
+📫 Work Email: 24520226@gm.uit.edu.vn
 
 
 
@@ -14,5 +15,6 @@ I'm Studying Artifical Intelligence 🤖 at University of Information Technology
 A cat gif for your new day!
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 
 
