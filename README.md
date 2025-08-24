@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Chính</h1>
 <h3 align="center">A passionate University Student in Viet Nam</h3>
-I'm Studying Artifical Intelligence 🤖 at University of Information Technology
+I'm Studying Artifical Intelligence 🤖 at University of Information Technology-VNU, HCM
 
 📫 Personal Email: chinhvn12345607@gmail.com
 
@@ -56,7 +56,7 @@ I'm Studying Artifical Intelligence 🤖 at University of Information Technology
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://milvus.io/" target="_blank" rel="noreferrer">
-    <img src="https://milvus.io/images/layout/milvus-logo.svg" alt="milvus" width="40" height="40"/>
+    <img src="https://image.pngaaa.com/536/6971536-middle.png" alt="milvus" width="40" height="40"/>
   </a>
 </p>
 
@@ -108,6 +108,7 @@ I'm Studying Artifical Intelligence 🤖 at University of Information Technology
 A cat gif for your new day!
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 
 
 
