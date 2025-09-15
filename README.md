@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Chính</h1>
 <h3 align="center">A passionate University Student in Viet Nam</h3>
-I'm Studying Artifical Intelligence 🤖 at University of Information Technology-VNU, HCM
+I'm studying Artifical Intelligence at University of Information Technology-VNU, HCM
 
 📫 Personal Email: chinhvn12345607@gmail.com
 
@@ -108,6 +108,7 @@ I'm Studying Artifical Intelligence 🤖 at University of Information Technology
 A cat gif for your new day!
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 
 
 
